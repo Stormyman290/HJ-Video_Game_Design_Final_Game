@@ -1,0 +1,3 @@
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\BetaContent\obj\x86\Debug\BetaContent.contentprojResolveAssemblyReference.cache
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\BetaContent\obj\x86\Debug\BetaContent.contentprojResolveAssemblyReference.cache
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\BetaContent\obj\x86\Debug\BetaContent.contentprojResolveAssemblyReference.cache
