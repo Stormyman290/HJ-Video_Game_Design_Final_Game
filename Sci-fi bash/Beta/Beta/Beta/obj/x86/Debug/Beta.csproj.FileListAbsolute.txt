@@ -1,0 +1,80 @@
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\obj\x86\Debug\Beta.csprojResolveAssemblyReference.cache
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Beta.exe
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Beta.pdb
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\obj\x86\Debug\Beta.exe
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\obj\x86\Debug\Beta.pdb
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\4ElementsSeasonsBackgroundFinal.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\obj\x86\Debug\Beta.csprojResolveAssemblyReference.cache
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\obj\x86\Debug\Beta.exe
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\obj\x86\Debug\Beta.pdb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\4ElementsSeasonsBackgroundFinal.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Beta.exe
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Beta.pdb
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Characters\Testbox\Square.xnb
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\PlatformSprite.xnb
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_1.xnb
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_2.xnb
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_3.xnb
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_4.xnb
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_5.xnb
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_6.xnb
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_7.xnb
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_8.xnb
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_9.xnb
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Platforms.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Characters\Testbox\Square.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\PlatformSprite.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_1.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_2.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_3.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_4.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_5.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_6.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_7.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_8.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_9.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Platforms.xnb
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\ElementalObstructions.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\ElementalObstructions.xnb
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\SpriteFont1.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\SpriteFont1.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Firepower.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Firepower.wma
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Firepower.xnb
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Firepower.wma
+F:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\SpriteFont2.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\SpriteFont2.xnb
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Beta.exe.manifest
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Beta.application
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\obj\x86\Debug\Beta.exe.manifest
+I:\flash drive stuff\School\Grade 11\B4 Video Game Design\Projects\Sci-fi bash\Beta\Beta\Beta\obj\x86\Debug\Beta.application
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\4ElementsSeasonsBackgroundFinal.xnb
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Characters\Testbox\Square.xnb
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\PlatformSprite.xnb
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_1.xnb
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_2.xnb
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_3.xnb
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_4.xnb
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_5.xnb
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_6.xnb
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_7.xnb
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_8.xnb
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Menue\SplashArt_9.xnb
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Platforms.xnb
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\ElementalObstructions.xnb
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\SpriteFont2.xnb
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Firepower.xnb
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Content\Firepower.wma
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Beta.exe.manifest
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Beta.application
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Beta.exe
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\bin\x86\Debug\Beta.pdb
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\obj\x86\Debug\Beta.csprojResolveAssemblyReference.cache
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\obj\x86\Debug\Beta.exe.manifest
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\obj\x86\Debug\Beta.application
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\obj\x86\Debug\Beta.exe
+C:\Users\Chris Hahn\Desktop\Sci-fi bash\Beta\Beta\Beta\obj\x86\Debug\Beta.pdb
